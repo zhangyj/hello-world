@@ -1,4 +1,5 @@
 # hello-world
-Just another repository
+Just a new repository
 
 This is in hello-world branch.
+Delete something, add something.
